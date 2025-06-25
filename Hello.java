@@ -1,5 +1,5 @@
 class Hello{
   public void hello(){
-    System.out.print("Hi","5555");
+    System.out.print("Hi","555566666");
       }
 }
